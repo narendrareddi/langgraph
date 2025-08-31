@@ -2,3 +2,6 @@
 *.bin
 *.sqlite*
 .venv
+*.db
+.bin
+__pycache__/
